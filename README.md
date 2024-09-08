@@ -12,4 +12,4 @@ Este projeto web tem como objetivo fornecer um guia de comandos para o jogo Stre
 ## Como Utilizar
 1. **Clonar o repositório:**
    ```bash
-   git clone https://[seu_repositorio]
+   git clone https://github.com/CubiBR/Inputs-de-Street-Fighter-III/tree/main
