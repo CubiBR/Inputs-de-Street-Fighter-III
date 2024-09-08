@@ -35,7 +35,7 @@ section {
     align-items: center; /* Centraliza os itens horizontalmente */
     margin-bottom: 3rem; /* Espaçamento abaixo de cada seção */
     width: 100%; /* Adiciona largura total */
-    margin-top: 100px; /* Aumenta o espaço entre a logo e a barra de pesquisa */
+    margin-top: 70px; /* Aumenta o espaço entre a logo e a barra de pesquisa */
 }
 
 /* Estiliza os inputs dentro das seções */
@@ -48,7 +48,7 @@ section input {
     color: #45474B; /* Cor do texto */
     font-size: 1rem; /* Tamanho da fonte */
     box-sizing: border-box; /* Inclui padding e border na largura total */
-    margin-top: 100px; /* Aumenta o espaço entre a logo e a barra de pesquisa */
+    margin-top: 30px; /* Aumenta o espaço entre a logo e a barra de pesquisa */
 }
 
 /* Estiliza os botões dentro das seções */
@@ -65,7 +65,7 @@ section button {
 /* Estiliza a caixa de resultados da pesquisa */
 .resultados-pesquisa {
     width: 60rem; /* Largura máxima da caixa de resultados */
-    height: 46vh; /* Altura máxima da caixa de resultados */
+    height: 33vh; /* Altura máxima da caixa de resultados */
     overflow-y: auto; /* Adiciona rolagem vertical se necessário */
     margin-top: 1rem; /* Espaçamento acima da caixa de resultados */
     padding: 1rem; /* Espaçamento interno */
@@ -147,7 +147,7 @@ button {
 }
 
 .resize-image-portrait {
-    width: 70%; /* Define a largura da imagem para 100% do contêiner */
+    width: 60%; /* Define a largura da imagem para 100% do contêiner */
     height: auto; /* Mantém a proporção da imagem */
 }
 
